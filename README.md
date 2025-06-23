@@ -5,4 +5,3 @@ to get know the github
 
 ###nots
 
-#meqdad
